@@ -1,0 +1,6 @@
+'storage_account_name = \"asoft67727\"' 
+
+
+resource_group_name = "asoftstate"
+storage_account_name = "asoft67727"
+storage_account_sas = "DefaultEndpointsProtocol=https;AccountName=asoft67727;AccountKey=f8VDIw5xh2Wv93RApsk5i+hf81KEenT0zKJrruMV6zJegk48d+ej+6liaRyxM34G0zvyYPipDa39R70W7TICsw==;EndpointSuffix=core.windows.net"
